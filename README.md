@@ -1,7 +1,7 @@
 # Idolly Ai Client Service
 
 ## Overview
-`UmiClient` is a service designed to interact with the Solana blockchain and facilitate operations such as uploading metadata to Irys, creating and managing NFT collections, minting compressed NFTs (cNFTs), and handling transactions efficiently. It leverages advanced tools like `@metaplex-foundation/umi`, `mpl-bubblegum`, and other Metaplex Foundation packages to provide a robust and scalable blockchain integration.
+`IdollyAiClient` is a service designed to interact with the Solana blockchain and facilitate operations such as uploading metadata to Irys, creating and managing NFT collections, minting compressed NFTs (cNFTs), and handling transactions efficiently. It leverages advanced tools like `@metaplex-foundation/umi`, `mpl-bubblegum`, and other Metaplex Foundation packages to provide a robust and scalable blockchain integration.
 
 ---
 
